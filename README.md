@@ -1,3 +1,5 @@
+https://datadrivenperspectives.com/the-benefits-of-using-python-and-t-sql-over-ssis-for-etl-ca50c6e11819
+
 # Mass Street Analytics ETL Framework
 
 This is a framework for moving data into a data warehouse. It includes everything you need to set up a self-service data platform.
